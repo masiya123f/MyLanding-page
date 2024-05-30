@@ -30,10 +30,8 @@ future              : false
 unpublished         : false
 
 # Plugins
-whitelist           : - jekyll-feed
-- jekyll-sitemap
-plugins             : - jekyll-feed
-- jekyll-sitemap
+whitelist           : [] 
+plugins             :	[] 
 # Conversion
 markdown            : kramdown
 highlighter         : rouge
