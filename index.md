@@ -20,11 +20,11 @@ layout: default
 <p>If you have any questions or would like to get in touch, please use the contact form below.</p>
 
 <form action="/contact" method="post">
-  <label for="name">Name:</label><br>
+  <label for="name">Name:Siyabonga ayanda khumalo</label><br>
   <input type="text" id="name" name="name" required><br>
-  <label for="email">Email: Siyabongakhumalo602@gmail.com</label><br>
+  <label for="email">Email:Siyabongakhumalo602@gmail.com</label><br>
   <input type="email" id="email" name="email" required><br>
-  <label for="message">Message:</label><br>
+  <label for="message">Message:i am very good with my work</label><br>
   <textarea id="message" name="message" required></textarea><br>
   <input type="submit" value="Send">
 </form>
